@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+qdrant-client
+face-recognition
+numpy
+reflex
+httpx
+psutil
+pyyaml
+cmake
+reflex==0.8.21
