@@ -38,6 +38,7 @@ This system allows users to upload a photo of a person and instantly find other 
 ├── frontend_streamlit.py# Streamlit Frontend: User Interface
 ├── prepare_data.py      # Utility: Samples and cleans the raw CelebA dataset
 └── requirements.txt     # Python dependencies
+```
 
 ⚡ Getting Started
 1. Prerequisites
@@ -118,4 +119,5 @@ Cloud Storage: Replace local stored_images with AWS S3.
 GPU Acceleration: Enable CNN-based face detection for higher accuracy.
 
 Author
+
 Waseem Ashraf Khan, AI/ML Engineer, https://www.linkedin.com/in/waseem-khan-data-scientist/ 
